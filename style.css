@@ -1,0 +1,259 @@
+ 
+  
+ 
+
+.box-part{
+    background-color: whitesmoke;
+     width: 1090px;
+     height:590px;
+position:  absolute;
+ right:100px;
+ left: 0px;
+     top: 50px  ;
+     
+}
+
+.card{
+    height: 410px;
+    width: 1000px;
+    position: absolute;
+    top:150px;
+    left:40px;
+     
+
+}
+
+p{ font-size: 25px;
+    position:  relative;
+    top: 30px;
+ }
+ h4{
+    position:  relative;
+    top: 20px;
+ }
+
+.q{   
+    
+    height:  300px;
+    width: 320px;
+    position: absolute;
+    top: 40px;
+    right:0px ;
+ }
+ input{
+    width:400px;
+}
+
+.lab{
+     
+     
+    position: absolute;
+    top:50px;
+    left:100px;
+     
+}
+
+
+.lab1{
+     
+     
+    position:relative;
+    top:50px;
+     
+}
+
+.lab2{
+     
+     
+    position:relative;
+    top:50px;
+    right:15px ;
+    
+    
+}
+ .lab3 {
+     
+       
+    position:relative;
+    top:50px;
+    right:190px;
+     
+}
+.b{
+    width:100px
+}
+.btn{
+    width:150px;
+    position:relative;
+    top:65px;
+    right:160px
+    
+}
+.lab4 {
+     
+   position: relative;
+   top:70px;
+   right:54px
+}
+.a{
+    position:relative;
+    left:200px;
+    bottom:38px
+} 
+.col-8{
+    
+    
+    position: absolute;
+    top:0px;
+    left:353px
+}
+ 
+
+ 
+
+ 
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .partbox{
+    height: 600px;
+    width: 1200px;
+    position: absolute;
+    right: 90px;
+    top:50px
+}
+
+
+.q{   
+    
+    height:  300px;
+    width: 320px;
+    position: absolute;
+    top: 60px;
+    right:0px ;
+ }
+ 
+ 
+ p{ font-size: 25px;
+    position: relative;
+    top: 50px;
+ }
+ .heading{
+    position: relative;
+    top: 25px;
+ }
+ 
+ .box{
+    background-color: whitesmoke;
+    height:440px;
+    width:1060px;
+    top:  40px;
+    left: 65px;
+    position:  relative;
+    bottom: 20px;
+}
+.col-11{
+    position:absolute;
+    top:10px;
+    right: 0px;
+    left: 110px;
+    padding-bottom: 20px; 
+}
+.col-8{
+    
+    
+    position: absolute;
+    top:0px;
+    left:353px
+}
+input{
+    width:400px;
+}
+
+.lab{
+     
+     
+    position: absolute;
+    top:50px;
+    left:100px;
+     
+}
+
+
+.lab1{
+     
+     
+    position:relative;
+    top:50px;
+     
+}
+
+.lab2{
+     
+     
+    position:relative;
+    top:50px;
+    right:15px ;
+    
+    
+}
+ .lab3 {
+     
+       
+    position:relative;
+    top:50px;
+    right:190px;
+     
+}
+.b{
+    width:100px
+}
+.btn{
+    width:150px;
+    position:relative;
+    top:65px;
+    right:160px
+    
+}
+.lab4 {
+     
+   position: relative;
+   top:70px;
+   right:54px
+}
+.a{
+    position:relative;
+    left:200px;
+    bottom:38px
+} */
